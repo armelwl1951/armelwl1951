@@ -1,4 +1,4 @@
-### Hi there 👋
+![GitHub Logo](/assets/banner.jpg)
 
 <!--
 **armelwl1951/armelwl1951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
