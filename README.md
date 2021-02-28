@@ -1,5 +1,4 @@
-![GitHub Logo](/assets/banner.jpg)
-Format: ![welcome banner](C:\Users\Ciera Hernandez\Desktop\Projects\Clones\armelwl1951\assets\banner (1).jpg)
+# Hello! :wave:
 
 <!--
 **armelwl1951/armelwl1951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
