@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armelwl1951&label=Profile%20views&color=0e75b6&style=flat" alt="armelwl1951" /> </p>
 
-<p align="left"> <a href="https://twitter.com/CieraHe41219436" target="blank"><img src="https://img.shields.io/twitter/follow/chernan20842959?logo=twitter&style=for-the-badge" alt="chernan20842959" /></a> </p>
+<p align="left"> <a href="https://twitter.com/CieraHe41219436" target="blank"><img src="https://img.shields.io/twitter/follow/CieraHe41219436?logo=twitter&style=for-the-badge" alt="CieraHe41219436" /></a> </p>
 
 - 🌱 I’m currently learning **C++, Python, Java, AWS, cloud language...**
 
