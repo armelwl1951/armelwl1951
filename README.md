@@ -13,11 +13,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ciera-hernandez-354022147/](https://www.linkedin.com/in/ciera-hernandez-354022147/)
 
-- ⚡ Fun fact **My first car was a 1951 F-3 that I bought with my own money and rebuilt myself, converting it to diesel.**
+- ⚡ Fun fact **My first car was a 1951 F-3 that I rebuilt and converted to diesel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chernan20842959" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chernan20842959" height="30" width="40" /></a>
+<a href="https://twitter.com/CieraHe41219436" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="CieraHe41219436" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ciera-hernandez-354022147/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ciera-hernandez-354022147/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11810331/sonador-fool-1951?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/11810331/sonador-fool-1951?tab=profile" height="30" width="40" /></a>
 </p>
