@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ciera-hernandez-354022147/](https://www.linkedin.com/in/ciera-hernandez-354022147/)
 
-- ⚡ Fun fact **My first car was a 1951 F-3 that I rebuilt and converted to diesel.**
+- ⚡ Fun fact: **My first car was a 1951 F-3 that I rebuilt and converted to diesel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
