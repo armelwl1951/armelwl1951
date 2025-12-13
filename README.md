@@ -42,9 +42,28 @@ I also build **reporting and operational visibility** that supports better decis
 
 ---
 
-## Toolbox (the stuff I actually use)
+## Toolbox (what I actually use)
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="34" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="34" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="34" />
-  <img src="https://raw.githubusercontent.com/dev
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="34" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="34" />
+</p>
+
+<p>
+  <img alt="Windows Server" src="https://img.shields.io/badge/Windows%20Server-0b0b0f?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Active Directory" src="https://img.shields.io/badge/Active%20Directory-0b0b0f?style=for-the-badge" />
+  <img alt="Oracle Analytics" src="https://img.shields.io/badge/Oracle%20Analytics-0b0b0f?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-0b0b0f?style=for-the-badge" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-0b0b0f?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="SYNKROS" src="https://img.shields.io/badge/Konami%20SYNKROS-0b0b0f?style=for-the-badge" />
+</p>
+
+- Windows Server / AD fundamentals (identity, access, day-to-day ops)
+- Oracle Analytics + SQL + Excel (reporting, validation, operational visibility)
+- Python (automation + data handling)
+- Linux, Git, Bash (practical ops tooling)
