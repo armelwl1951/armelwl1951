@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=9D4EDD&center=true&vCenter=true&width=760&lines=IT%2FDCO+Manager;Ops+Leadership+%2B+Reporting+%26+Analytics;Oracle+Analytics+%7C+SQL+%7C+Python+%7C+Excel;Regulated+24%2F7+Environments" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=9D4EDD&center=true&vCenter=true&width=760&lines=DCO+Manager;Ops+Leadership+%2B+Reporting+%26+Analytics;Oracle+Analytics+%7C+SQL+%7C+Python+%7C+Excel;Regulated+24%2F7+Environments" />
 </p>
 
 <p align="center">
